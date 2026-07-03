@@ -1,0 +1,6 @@
+node_modules/
+addresses.json
+addresses.sha256.txt
+*.log
+npm-debug.log*
+.DS_Store
